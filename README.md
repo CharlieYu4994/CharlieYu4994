@@ -5,8 +5,8 @@
 我的各种公钥：
 --------------
 + OpenPGP公钥：
-  + [公钥](github.com/CharlieYu4994/CharlieYu4994/blob/master/GPG-Key.md)
+  + [公钥](https://github.com/CharlieYu4994/CharlieYu4994/blob/master/GPG-Key.md)
 
 
 + [RSA-AES-Encryption](https://github.com/LassiCat/RSA-AES-Encryption) 公钥：
-  + [公钥](github.com/CharlieYu4994/CharlieYu4994/blob/master/RSA-AES-Encryption-Key.md)
+  + [公钥](https://github.com/CharlieYu4994/CharlieYu4994/blob/master/RSA-AES-Encryption-Key.md)
