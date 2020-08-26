@@ -4,7 +4,7 @@
 
 我的各种公钥：
 --------------
-+ OpenPGP公钥：
++ OpenPGP 公钥：
   + [公钥](https://github.com/CharlieYu4994/CharlieYu4994/blob/master/GPG-Key.md)
 
 
