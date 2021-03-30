@@ -1,9 +1,9 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CharlieYu4994&show_icons=true" />
+<img justify="center" align="right" src="https://github-readme-stats.vercel.app/api?username=CharlieYu4994&show_icons=true&include_all_commits=true" />
 
 # CharlieYu4994
 一个普普通通的高中学生狗。
 
-海拔只有 1.57m，贼矮 ~~（我对得起正太的称号）~~
+海拔只有 1.57m，贼矮~~我对得起正太的称号~~
 
 <details>
   <summary>技能树</summary>
