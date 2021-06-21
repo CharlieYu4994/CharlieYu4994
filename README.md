@@ -1,4 +1,4 @@
-<img justify="center" align="right" src="https://github-readme-stats.vercel.app/api?username=CharlieYu4994&show_icons=true&include_all_commits=true" />
+<a href="#"><img justify="center" align="right" src="https://github-readme-stats.vercel.app/api?username=CharlieYu4994&show_icons=true&include_all_commits=true" /></a>
 
 # CharlieYu4994
 一个普普通通的高中学生狗。
