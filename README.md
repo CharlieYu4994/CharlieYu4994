@@ -10,6 +10,7 @@
 
 **语言（都比较菜）**
 + C/C++
++ Assembly
 + Golang
 + Python
 + HTML5
